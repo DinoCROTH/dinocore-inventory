@@ -1,7 +1,6 @@
 fx_version 'cerulean'
 game 'rdr3'
-
-description 'dinocore-Inventory'
+description 'Dinocore-Inventory'
 version '0.0.1'
 
 shared_scripts {
